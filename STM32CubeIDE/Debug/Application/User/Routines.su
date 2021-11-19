@@ -1,0 +1,3 @@
+Routines.c:16:6:RoutineInit	8	static
+Routines.c:22:6:Routine	0	static
+Routines.c:27:6:HAL_ADC_ConvCpltCallback	0	static
